@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react";
 // Netlify, GitHub Pages, or any static host without extra config.
 export default defineConfig({
   plugins: [react()],
-  base: "./",
+  base: "/AlgoFlow/",
 });
