@@ -14,9 +14,6 @@ Vite
 Tailwind CSS
 
 
-Live Demo
-
-https://github.com/user-attachments/assets/your-demo-video-here
 
 Inspiration
 
